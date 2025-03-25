@@ -327,3 +327,5 @@ public class WeatherApp extends JFrame {
         SwingUtilities.invokeLater(() -> new WeatherApp());
     }
 }
+
+// code is now on github, and CVS works fine.
