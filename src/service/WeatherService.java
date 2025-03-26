@@ -8,7 +8,7 @@ import java.io.*;
 import java.net.*;
 
 public class WeatherService {
-    private static final String API_KEY = "3b3876697c59a7fa7cc36054113bb691";
+    private static final String API_KEY = "API_KEY"; //I have my API key included in README.md
 
     public WeatherData fetchWeatherData(String city) throws IOException {
         WeatherData data = new WeatherData();

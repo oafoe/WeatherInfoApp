@@ -41,7 +41,7 @@ A Java Swing application that provides real-time weather information and forecas
     - Register at [OpenWeatherMap](https://openweathermap.org/api)
     - Replace `API_KEY` in source code with your actual key
     - For Professor, I have utilized `this api key`;
-      - ``3b3876697c59a7fa7cc36054113bb691``
+      - ``this is restricted here``
         
 
 2. **Install Dependencies**
