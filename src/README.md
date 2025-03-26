@@ -98,7 +98,8 @@ A Java Swing application that provides real-time weather information and forecas
 * Oracle Java Documentation
 
 
-
+# Screenshot
+![img_1.png](img_1.png)
 
 
 
