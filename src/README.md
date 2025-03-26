@@ -12,20 +12,22 @@ A Java Swing application that provides real-time weather information and forecas
 - Error handling and retry mechanisms
 
 ## Project Structure
-project/
-├── src/
-│   ├── controller/
-│   │   └── WeatherController.java
-│   ├── model/
-│   │   ├── WeatherData.java
-│   │   └── ForecastData.java
-│   ├── service/
-│   │   └── WeatherService.java
-│   ├── view/
-│   │   └── WeatherView.java
-│   └── AppLauncher.java
-├── img.png
-└── README.md
+# Project Structure
+
+- **src/**
+   - **controller/**
+      - WeatherController.java
+   - **model/**
+      - WeatherData.java
+      - ForecastData.java
+   - **service/**
+      - WeatherService.java
+   - **view/**
+      - WeatherView.java
+   - AppLauncher.java
+- **img.png**
+- **README.md**
+
 
 
 ## Prerequisites
