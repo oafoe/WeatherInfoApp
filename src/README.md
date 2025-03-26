@@ -12,7 +12,6 @@ A Java Swing application that provides real-time weather information and forecas
 - Error handling and retry mechanisms
 
 ## Project Structure
-# Project Structure
 
 - **src/**
    - **controller/**
