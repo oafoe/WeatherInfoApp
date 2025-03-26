@@ -11,6 +11,23 @@ A Java Swing application that provides real-time weather information and forecas
 - Automatic timezone detection
 - Error handling and retry mechanisms
 
+## Project Structure
+project/
+├── src/
+│   ├── controller/
+│   │   └── WeatherController.java
+│   ├── model/
+│   │   ├── WeatherData.java
+│   │   └── ForecastData.java
+│   ├── service/
+│   │   └── WeatherService.java
+│   ├── view/
+│   │   └── WeatherView.java
+│   └── AppLauncher.java
+├── img.png
+└── README.md
+
+
 ## Prerequisites
 - Java JDK 11+
 - Internet connection
