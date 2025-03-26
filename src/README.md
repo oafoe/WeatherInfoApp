@@ -40,6 +40,8 @@ A Java Swing application that provides real-time weather information and forecas
 1. **Get API Key**
     - Register at [OpenWeatherMap](https://openweathermap.org/api)
     - Replace `API_KEY` in source code with your actual key
+    - For Professor, I have utilized `this api key`;
+      - ``3b3876697c59a7fa7cc36054113bb691``
         
 
 2. **Install Dependencies**
@@ -48,11 +50,11 @@ A Java Swing application that provides real-time weather information and forecas
 
 3. **Compilation**
    ```bash
-   javac -cp .;json-20231013.jar WeatherApp.java
+   javac -cp .;json-20250107.jar Applauncher.java
    
 4. **Execution**
     ```bash
-   java -cp .;json-20231013.jar WeatherApp
+   java -cp .;json-20250107.jar AppLauncher
    
 ## Usage Guide
 **Search Weather**
